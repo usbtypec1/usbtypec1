@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=2000&color=25FF09&background=000000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi!+I'm+Eldos;I'm+python+developer;Contact+me+in+Telegram%3A+%40usbtypec)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=2000&color=00FF17&background=000000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi!+I'm+Eldos;I'm+python+developer;Click+to+contact+with+me)](https://t.me/usbtypec)
