@@ -28,3 +28,7 @@ Hi, I'm Backend Python Developer. I usually work with Django (DRF) and FastAPI.
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usbtypec1&theme=2077)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=usbtypec1&theme=2077)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=usbtypec1&theme=2077&utcOffset=6)
+
+<details>
+  <summary>Inspired by <a href="https://github.com/dolfinus/dolfinus">@dolfinus</a></summary>
+</details>
