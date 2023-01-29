@@ -4,7 +4,7 @@ Hi, I'm Backend Python Developer. I usually work with Django (DRF) and FastAPI.
 
 ### 📬 Contact Me:
   - Email: eldos.baktybekov@gmail.com
-  - Telegram: @usbtypec
+  - Telegram: [@usbtypec](https://usbtypec.t.me/)
 
 ### 📱 Tech Stack:
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
