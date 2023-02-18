@@ -33,3 +33,4 @@ Hi, I'm Backend Python Developer. I usually work with Django (DRF) and FastAPI.
 <details>
   <summary>Inspired by <a href="https://github.com/dolfinus/dolfinus">@dolfinus</a></summary>
 </details>
+<b><a href="https://github.com/Ileriayo/markdown-badges">Badges</a></b>
