@@ -1,6 +1,6 @@
 # @usbtypec1 (Eldos Baktybek uulu)
 
-Hi, I'm Backend Python Developer. I usually work with Django (DRF) and FastAPI.
+Hi, I'm Backend Python Developer. I usually work with Django (DRF) and FastAPI. Also little bit of Vue.
 
 ### 📬 Contact Me:
   - Email: eldos.baktybekov@gmail.com
