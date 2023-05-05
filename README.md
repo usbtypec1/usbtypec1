@@ -35,7 +35,7 @@ Hi, I'm Backend Python Developer. I usually work with Django (DRF) and FastAPI. 
 
 ### 🚀 Leetcode:
   <a href="https://leetcode.com/user9817hl/">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=user9817hl&theme=dark" alt="Leetcode Solution Statistics"/>
+    <img src="https://leetcode-stats-six.vercel.app/api?username=usbtypec&theme=dark" alt="Leetcode Solution Statistics"/>
   </a>
 
 <details>
