@@ -34,7 +34,7 @@ Hi, I'm Backend Python Developer. I usually work with Django (DRF) and FastAPI. 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=usbtypec1&theme=2077&utcOffset=6)
 
 ### 🚀 Leetcode:
-  <a href="https://leetcode.com/user9817hl/">
+  <a href="https://leetcode.com/usbtypec/">
     <img src="https://leetcode-stats-six.vercel.app/api?username=usbtypec&theme=dark" alt="Leetcode Solution Statistics"/>
   </a>
 
