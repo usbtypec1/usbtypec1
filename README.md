@@ -7,7 +7,8 @@ Hi, I'm Backend Python Developer. I usually work with Django (DRF) and FastAPI. 
   - Telegram: [@usbtypec](https://usbtypec.t.me/)
 
 ### 👷 Currently Working On
-  - [Goretsky Integration](https://github.com/goretsky-integration) - 🍕 Helper bot for DodoPizza franchisee
+  - [Goretsky Integration](https://github.com/goretsky-integration) - 🍕 Helper bot for DodoPizza franchisee.
+  - [Duck Duck](https://github.com/duck-duck-project) - 🐥 Super app for entertaiment, my life's automatization, etc.
 
 ### 📱 Tech Stack:
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
