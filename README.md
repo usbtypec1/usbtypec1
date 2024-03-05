@@ -8,6 +8,7 @@ Hi, I'm Backend Python Developer. I usually work with Django (DRF) and FastAPI. 
 
 ### 👷 Currently Working On
   - [Goretsky Integration](https://github.com/goretsky-integration) - 🍕 Helper bot for DodoPizza franchisee.
+  - [Coffeconnect](https://github.com/auto-coffee-house-project) - ☕️ App for collecting bonuses in coffee houses.
   - [Duck Duck](https://github.com/duck-duck-project) - 🐥 Super app for entertaiment, my life's automatization, etc.
 
 ### 📱 Tech Stack:
