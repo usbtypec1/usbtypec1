@@ -6,11 +6,6 @@ Hi, I'm Fullstack Developer. I usually work with Django (DRF) and Nuxt 3.
   - Email: eldos.baktybekov@gmail.com
   - Telegram: [@usbtypec](https://usbtypec.t.me/)
 
-### 👷 Currently Working On
-  - [Goretsky Integration](https://github.com/goretsky-integration) - 🍕 Helper bot for DodoPizza franchisee.
-  - [Coffeconnect](https://github.com/auto-coffee-house-project) - ☕️ App for collecting bonuses in coffee houses.
-  - [Duck Duck](https://github.com/duck-duck-project) - 🐥 Super app for entertaiment, my life's automatization, etc.
-
 ### 📱 Tech Stack:
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
