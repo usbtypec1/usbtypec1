@@ -1,6 +1,6 @@
-# @usbtypec1 (Eldos Baktybek uulu)
+# @usbtypec1 (Eldos)
 
-Hi, I'm Fullstack Developer. I usually work with Django (DRF) and Nuxt 3.
+Django Rest Framework developer.
 
 ### 📬 Contact Me:
   - Email: eldos.baktybekov@gmail.com
@@ -14,16 +14,6 @@ Hi, I'm Fullstack Developer. I usually work with Django (DRF) and Nuxt 3.
   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
   ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### 📊 Statistics:
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usbtypec1&theme=2077)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=usbtypec1&theme=2077)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=usbtypec1&theme=2077&utcOffset=6)
-
-### 🚀 Leetcode:
-  <a href="https://leetcode.com/usbtypec/">
-    <img src="https://leetcode-stats.vercel.app/api?username=usbtypec&theme=Dark" alt="leetcode stats">
-  </a>
 
 <details>
   <summary>Inspired by <a href="https://github.com/dolfinus/dolfinus">@dolfinus</a></summary>
