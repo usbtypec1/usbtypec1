@@ -1,6 +1,6 @@
 # @usbtypec1 (Eldos)
 
-Django Rest Framework developer.
+Python/javascript developer.
 
 ### 📬 Contact Me:
   - Email: eldos.baktybekov@gmail.com
