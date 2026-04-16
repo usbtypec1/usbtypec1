@@ -1,6 +1,6 @@
 # @usbtypec1 (Eldos)
 
-Python/javascript developer.
+Backend Java developer.
 
 ### 📬 Contact Me:
   - Email: eldos.baktybekov@gmail.com
